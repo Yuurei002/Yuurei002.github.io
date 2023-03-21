@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CROASTERP Version="1, 0, 0, 4" RatioX="0.4523212" RatioY="0.52141529" Fps="25" Resolution="960:540" Relative="0">
+    <CRClipArr Count="0"/>
+    <CROwneUnitArr Count="0"/>
+    <CRTrackArr Snap="1" Zoom="25" Length="7500">
+        <CRVideoTrackArr Count="2">
+            <CRTrackList Name="Master V1" State="108" Count="0"/>
+            <CRTrackList Name="V2" State="96" Count="0"/>
+        </CRVideoTrackArr>
+        <CRVideoEFTrackArr Count="2">
+            <CRTrackEFList State="0" Count="0"/>
+            <CRTrackEFList State="0" Count="0"/>
+        </CRVideoEFTrackArr>
+        <CRAudioTrackArr Count="1">
+            <CRTrackList Name="Master A1" State="105" Count="0"/>
+        </CRAudioTrackArr>
+    </CRTrackArr>
+</CROASTERP>
